@@ -1,0 +1,133 @@
+/* Base Styles */
+body {
+  font-size: 19px;
+  line-height: 1.4;
+  color: #FF9933;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+
+img {
+  width: 200px;
+}
+
+h1.logo {
+  margin-top: -14px;
+  font-size: 80px;
+}
+
+/* To center the container */
+.description {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.logo {
+  font-size: 200px;
+  font-weight: 800;
+}
+
+.bullseye {
+border: none;
+  max-width: 300px;
+  display: inline-block;
+  vertical-align: middle;
+  width:auto;
+}
+
+.startGameBtn{
+  border: 2px solid white;
+}
+
+#directions {
+  border-radius: 5px;
+  padding: 90px 0;
+  width: 350px;
+  height: 171px;
+  text-align: left;
+  display: block;
+  position: absolute;
+  left: 10px;
+  bottom: 5;
+  background-color: rgba(50,100,255,.3);
+}
+
+#player1-display {
+  margin-left: 155px;
+}
+
+.timer {
+  float: left;
+  margin-left: 0px;
+  font-weight: 200;
+  color: red;
+  font-size: 20px;
+}
+
+header .logo {
+  color: #FF9933;
+}
+
+header h2 {
+  font-size: 30px;
+  text-align: center;
+  color: #FF9933;
+  margin: 20px 0 20px;
+  font-weight: 600px;
+  clear: left;
+}
+
+#fields {
+  position: inline-block;
+  margin-left: 20px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+#persons {
+  /*margin-top: 100px;*/
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+#player1-score{
+  font-size: 20px;
+  font-color: black;
+  height: 25px;
+  width: 140px;
+  background-color: white;
+  color: black;
+  border: -4px black solid;
+  border-radius: 50px;
+  float: right;
+  margin-bottom: 20px;
+}
+
+#player2-score{
+  font-size: 20px;
+  font-color: black;
+  height: 25px;
+  width: 140px;
+  background-color: white;
+  color: black;
+  border: -4px black solid;
+  border-radius: 50px;
+  float: right;
+  margin-bottom: 20px;
+}
+
+body {
+  text-align: center;
+  background: url(../images/background1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+ #message {
+   color: yellow;
+     font-size: 40px;
+   font-family: "Open Sans", Helvetica, Arial, sans-serif;
+   font-weight: 300;
+ }
