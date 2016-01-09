@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-DEVELOPER: 	Kevin Williams
-
 GAME NAME:  	Use of Force AR
 
 DESCRIPTION:	Use of Force is designed to both show a use-case of augmented reality (AR) and the need for more training in our nations police academies, security details, and understanding of rules of engagement.  Especially given differences in background and social dynamics.
@@ -20,4 +17,4 @@ IF MORE TIME:  Would make the game much more dynamic by comparing "rounds" of pl
 =======
 # useofforcear
 My first ever app coded after exposure to HTML, CSS and Javascript for a week.
->>>>>>> e44085570bfacc80a812cd4d0c89e6abe5f4f695
+
