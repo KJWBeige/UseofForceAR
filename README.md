@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DEVELOPER: 	Kevin Williams
 
 GAME NAME:  	Use of Force AR
@@ -16,3 +17,7 @@ PLAYERS:	Two player game.  First player inputs name, Second player inputs name. 
 CODE USED:  HTML, CSS, Javascript and JQuery
 
 IF MORE TIME:  Would make the game much more dynamic by comparing "rounds" of play, more varied citizen types that warrant different responses, and of course application to mobile devices for true AR effect.
+=======
+# useofforcear
+My first ever app coded after exposure to HTML, CSS and Javascript for a week.
+>>>>>>> e44085570bfacc80a812cd4d0c89e6abe5f4f695
